@@ -1,2 +1,2 @@
 # hello-world
-This my small step.
+This is my small step.
